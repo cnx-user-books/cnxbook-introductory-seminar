@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Fred Mednick">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10327</md:content-id>
     <md:title>Introductory Seminar</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>9559e714-90d7-4870-b2d5-7a64cd8e7849</md:uuid>
-<md:slug>introductory-seminar</md:slug>
-</metadata>
+    <md:slug>introductory-seminar</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m13280"/>
     <col:module document="m13281"/>
